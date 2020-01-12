@@ -1,4 +1,4 @@
-# Data_Analysis
+# Data Analysis in Practice
 Small Example of data analysis librarys (Pandas &amp; Matplotlib)
 
 Python version: 3.8.0
