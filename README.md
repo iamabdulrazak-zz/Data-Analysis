@@ -1,5 +1,5 @@
 # Data Analysis in Practice
-Small Example of data analysis librarys (Pandas &amp; Matplotlib)
+Small Example of data analysis in practice with python librarys (Pandas &amp; Matplotlib)
 
 Python version: 3.8.0
 
