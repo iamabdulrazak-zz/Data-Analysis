@@ -1,0 +1,32 @@
+Day,Temperature,Humidity,WindSpeedMPH,Condition
+2016-01-01,38,52,8.0,no condition
+2016-01-02,36,46,7.0,no condition
+2016-01-03,40,47,8.0,no condition
+2016-01-04,25,44,9.0,no condition
+2016-01-05,20,41,5.0,no condition
+2016-01-06,33,35,4.0,no condition
+2016-01-07,39,33,2.0,no condition
+2016-01-08,39,64,4.0,no condition
+2016-01-09,44,77,8.0,Rain
+2016-01-10,50,71,0.0,Rain
+2016-01-11,33,37,0.0,no condition
+2016-01-12,35,53,6.0,no condition
+2016-01-13,26,42,10.0,no condition
+2016-01-14,30,47,5.0,no condition
+2016-01-15,43,62,5.0,no condition
+2016-01-16,47,70,7.0,Rain
+2016-01-17,36,66,6.0,Fog-Snow
+2016-01-18,25,53,12.0,Snow
+2016-01-19,22,42,11.0,no condition
+2016-01-20,32,49,6.0,no condition
+2016-01-21,31,45,6.0,no condition
+2016-01-22,26,41,0.0,Snow
+2016-01-23,26,78,16.0,Fog-Snow
+2016-01-24,28,53,6.0,Snow
+2016-01-25,34,54,3.0,no condition
+2016-01-26,43,56,7.0,no condition
+2016-01-27,41,45,7.0,Rain
+2016-01-28,37,51,5.0,no condition
+2016-01-29,36,50,8.0,no condition
+2016-01-30,34,46,7.0,no condition
+2016-01-31,46,52,5.0,no condition
